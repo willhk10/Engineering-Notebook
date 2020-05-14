@@ -6,4 +6,4 @@ The first assignment I completed in Engineering 1 was to make an LED blink on a 
 
 # Fritzing 
 
-<img src = "Pictures/led_blink.jpg" width "300px" />
+<img src = "Pictures/led_blink.jpg" width="300px" />
